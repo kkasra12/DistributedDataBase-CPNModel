@@ -16,3 +16,13 @@ section img {
     margin-right: auto;
     display: block;
 }
+p code{
+    font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, monospace;
+    color: #efefef;
+    font-size: 13px;
+    margin: 0 4px;
+    padding: 4px 6px;
+    border-radius: 20px;
+    background-color: #111d;
+    direction: ltr;
+}
