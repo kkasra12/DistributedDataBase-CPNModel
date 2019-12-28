@@ -1,3 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 # DistributedDataBase-CPNModel
 
 اين مثال يک پايگاه داده توزيع شده بسيار
