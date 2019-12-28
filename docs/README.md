@@ -29,3 +29,4 @@ MES = {(s,r) | s,r∈DBM ∧ s≠r}
 داده يک بروزرسانی را ايجاد می کند ، بايد
 پيامی را به همه مديران ديگر ، يعنی پيام های
 زير ارسال کند:
+<a href="https://www.codecogs.com/eqnedit.php?latex=\sum_{r\in&space;DBM-\{s\}}&space;\1`(s,r)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sum_{r\in&space;DBM-\{s\}}&space;\1`(s,r)" title="\sum_{r\in DBM-\{s\}} \1`(s,r)" /></a>
