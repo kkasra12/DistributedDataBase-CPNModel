@@ -5,4 +5,4 @@ group members:
 2. Kasra Eskandari
 3. Rana Amani
 
-visit [here](kkasra12.github.io/DistributedDataBase-CPNModel) to see full description 
+visit [here](https://kkasra12.github.io/DistributedDataBase-CPNModel) to see full description 
